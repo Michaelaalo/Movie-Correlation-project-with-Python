@@ -1,6 +1,5 @@
-Sure! Here's the script converted to markdown format with added emojis:
 
-```markdown
+
 # 🎬 Movie Data Analysis Project 🎥
 
 This project showcases my skills in data analysis, visualization, and handling missing data using a movie dataset.
@@ -170,4 +169,3 @@ plt.show()
 ```
 ```
 
-You can copy and paste this markdown into your project repository. It includes all the Python code with explanations and is formatted for use in a markdown document with emojis to make it more engaging.
